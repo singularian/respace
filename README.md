@@ -13,7 +13,7 @@ It uses the concept of a coordinate string to create the spaced text.
 # Building the code
 
 To build the c++ engine under Linux.  
-[respace_cpp]$ make testscanner_stl  
+[respace_cpp]$ make respace_stl  
 
 # Usage
 
