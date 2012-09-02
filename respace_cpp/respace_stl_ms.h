@@ -2,7 +2,7 @@
 #include <string>
 #include <list>
 #include <algorithm>
-#include "testscanner_stl_wordtypes.h"
+#include "respace_stl_wordtypes.h"
 
 using namespace std;
 

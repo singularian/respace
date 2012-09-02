@@ -12,7 +12,10 @@ void stringxy(char *string, int beginning, int end);
 
 int main (int argc, char *argv[])
 {
-	if ((argc = 2))
+        if (argc <= 1) {
+            printf( "a demonstration of a spaceless scan\n");
+        } 
+	else if ((argc == 2))
 	{
 		fscanner(argv[1]);
 		fxscanner(argv[1]);

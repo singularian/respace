@@ -9,7 +9,7 @@
 #include <string>
 #include <iostream>
 #include <fstream>
-#include "testscanner_stl_ms.h"
+#include "respace_stl_ms.h"
 
 #define stricmp strcasecmp
 
@@ -46,16 +46,18 @@ int main (int argc, char *argv[])
 		usage(argv[0]);
 		exit (1);
 	}
-
+        // run the spaceless interpreter
 	if ((argc == 2) && (stricmp("--int", argv[1]) == 0)) { 
 		interpreter();	
 		exit(1);
 	}
+        // respace a file
 	if ((argc == 3) && (stricmp("--file", argv[1]) == 0)) {
 	  	respacefile(argv[2]); 
 		exit(1);
 
 	}
+        // process a hex string
 	if ((argc == 3) && (stricmp("--hex", argv[1]) == 0)) {
                 std::ifstream in("dictionary.txt");
                 std::map<std::string, std::string> dictionary;
@@ -70,6 +72,22 @@ int main (int argc, char *argv[])
 
 
 	}
+        // stack command line execution
+        // display the coordinate match stack list
+        if ((argc == 3) && (stricmp("--stk", argv[1]) == 0)) {
+                std::ifstream in("dictionary.txt");
+                std::map<std::string, std::string> dictionary;
+                std::list<matchStack> outList;
+                // std::list<int, int, std::string> matchStack;
+                std::list<matchStack> stack;
+                load_dictionary(in, dictionary);
+                fscanner(argv[2], dictionary, stack);
+                stack.sort(compare);
+                displayList(stack);
+                processList(stack, outList);
+                displayListWords(outList);
+                cout << endl;
+        }
         // commandline execution
 	else if ((argc == 2))
 	{
@@ -81,7 +99,7 @@ int main (int argc, char *argv[])
 		load_dictionary(in, dictionary);
 		fscanner(argv[1], dictionary, stack);
 		stack.sort(compare);
-		displayList(stack);
+		// displayList(stack);
 		processList(stack, outList);
 		displayListWords(outList);
 		cout << endl;
@@ -461,10 +479,11 @@ void usage(char *cmd)
 	       printf("\nUSAGE [-option] [INPUT FILE] \n");
 	       printf("USAGE [-option]\n\n");
 	       // printf("--version       -  Display the program version.\n");
-	       printf("%s --file [file]     -  Despace a command line string.\n", cmd);
+	       printf("%s --file [file]     -  Respace a command line string.\n", cmd);
 	       printf("%s --int             -  Execute the interpreter.\n", cmd);
 	       printf("%s --hex             -  Execute and despace the hex code argument.\n", cmd);
-	       printf("%s spacelessstring   -  Despace a argument string.\n", cmd);
+	       printf("%s --stk             -  Respace a argument string and display the matchstack.\n", cmd);
+	       printf("%s spacelessstring   -  Respace a argument string.\n", cmd);
 	       printf("\n\nUSAGE Examples:\n");
 	       printf("   cmdline: respace Iamhereinavalleyoffame\n");
 	       printf("   I am here in a valley of fame\n");
