@@ -17,7 +17,7 @@ To build the c++ engine under Linux.
 
 # Usage
 
-This a simplified usage from the respace program   
+This is the current usage from the respace program   
 
 > % respace_stl  
 > Respace Decoder version .450b  
