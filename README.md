@@ -13,24 +13,24 @@ It uses the concept of a coordinate string to create the spaced text.
 # Building the code
 
 To build the c++ engine under Linux.  
-[respace_cpp]$ make respace_stl  
+[respace_cpp]$ make respace_stl   
 
 # Usage
 
-This a simplified usage from the respace program  
+This a simplified usage from the respace program   
 
-> % respace_stl   
-> Respace Decoder version .450b
-> Command Path: ./respace_stl
+> % respace_stl  
+> Respace Decoder version .450b  
+> Command Path: ./respace_stl  
 
-> USAGE [-option] [INPUT FILE]
-> USAGE [-option]
+> USAGE [-option] [INPUT FILE]  
+> USAGE [-option]  
 
-> respace_stl --file [file]     -  Respace a command line string.
-> respace_stl --int             -  Execute the interpreter.
-> respace_stl --hex             -  Execute and despace the hex code argument.
-> respace_stl --stk             -  Respace a argument string and display the matchstack.
-> respace_stl spacelessstring   -  Respace a argument string.
+> respace_stl --file [file]     -  Respace a command line string.  
+> respace_stl --int             -  Execute the interpreter.  
+> respace_stl --hex             -  Execute and despace the hex code argument.  
+> respace_stl --stk             -  Respace a argument string and display the matchstack.  
+> respace_stl spacelessstring   -  Respace a argument string.  
 
 
 USAGE Examples:
