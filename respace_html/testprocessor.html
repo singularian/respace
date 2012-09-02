@@ -1,0 +1,37 @@
+<HTML>
+<head>
+<script language="JavaScript">
+function makeLowercase() {
+document.form1.textarea.value = document.form1.textarea.value.toLowerCase();
+}
+function makeUppercase() {
+document.form1.textarea.value = document.form1.textarea.value.toUpperCase();
+}
+
+function makeSpaceless() {
+document.form1.textarea.value = removeSpaces(document.form1.textarea.value);
+}
+
+function removeSpaces(string) {
+	var tstring = "";
+	string = '' + string;
+	splitstring = string.split(" ");
+	for(i = 0; i < splitstring.length; i++)
+	tstring += splitstring[i];
+	return tstring;
+}
+</script>
+</head>
+<FORM name="form1" action="/cgi-bin/test.cgi" method="post">
+    <center>
+    <h1>Text Processor</h1>
+    <textarea name="textarea" rows=5 cols=45 maxlength=90></textarea><BR><BR>
+    <INPUT type="submit" value="Send"><BR> 
+    <INPUT type="reset" value="clear"><BR><BR>
+    <input type="button" name="text1" value="lowercase" size="30" onClick="makeLowercase();"><br>
+    <input type="button" name="text2" value="UPPERCASE" size="20" onClick="makeUppercase();"><br>
+    <input type="button" name="text3" value="Removespace" size="20" onClick="makeSpaceless();"><br>
+    <input type="button" name="text4" value="Remove punctuation" size="20" onClick="makeSpaceless();"><br>
+    </center>
+</FORM>
+</HTML>

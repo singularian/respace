@@ -1,0 +1,1317 @@
+
+String Iamhere.
+ Iamhere.
+
+substring 0 0 
+substring 0 1 I
+isword 25482 12741 0 Not found A I: joey 
+isword 12740 6370 0 Not found B I: deliquesce 
+isword 12740 9555 6371 Not found B I: Gambia 
+isword 12740 11148 9556 Not found B I: Holloway 
+isword 12740 11944 11149 Not found A I: Indiana 
+isword 11943 11546 11149 Not found A I: Ibn 
+isword 11545 11347 11149 Not found B I: Howell 
+isword 11545 11446 11348 Not found B I: hut 
+isword 11545 11496 11447 Not found B I: hygroscopic 
+isword 11545 11521 11497 Not found B I: hypophyseal 
+isword 11545 11533 11522 Not found B I: hysteresis 
+isword 11545 11539 11534 Not found A I: iambic 
+isword 11538 11536 11534 Not found B I: hysteron 
+isword 11538 11537 11537 Found I: i
+substring 0 2 Ia
+isword 25482 12741 0 Not found A Ia: joey 
+isword 12740 6370 0 Not found B Ia: deliquesce 
+isword 12740 9555 6371 Not found B Ia: Gambia 
+isword 12740 11148 9556 Not found B Ia: Holloway 
+isword 12740 11944 11149 Not found A Ia: Indiana 
+isword 11943 11546 11149 Not found A Ia: Ibn 
+isword 11545 11347 11149 Not found B Ia: Howell 
+isword 11545 11446 11348 Not found B Ia: hut 
+isword 11545 11496 11447 Not found B Ia: hygroscopic 
+isword 11545 11521 11497 Not found B Ia: hypophyseal 
+isword 11545 11533 11522 Not found B Ia: hysteresis 
+isword 11545 11539 11534 Not found A Ia: iambic 
+isword 11538 11536 11534 Not found B Ia: hysteron 
+isword 11538 11537 11537 Not found B Ia: i 
+isword 11538 11538 11538 Found Ia: IA
+substring 0 3 Iam
+isword 25482 12741 0 Not found A Iam: joey 
+isword 12740 6370 0 Not found B Iam: deliquesce 
+isword 12740 9555 6371 Not found B Iam: Gambia 
+isword 12740 11148 9556 Not found B Iam: Holloway 
+isword 12740 11944 11149 Not found A Iam: Indiana 
+isword 11943 11546 11149 Not found A Iam: Ibn 
+isword 11545 11347 11149 Not found B Iam: Howell 
+isword 11545 11446 11348 Not found B Iam: hut 
+isword 11545 11496 11447 Not found B Iam: hygroscopic 
+isword 11545 11521 11497 Not found B Iam: hypophyseal 
+isword 11545 11533 11522 Not found B Iam: hysteresis 
+isword 11545 11539 11534 Not found A Iam: iambic 
+isword 11538 11536 11534 Not found B Iam: hysteron 
+isword 11538 11537 11537 Not found B Iam: i 
+isword 11538 11538 11538 Not found B Iam: IA 
+substring 0 4 Iamh
+isword 25482 12741 0 Not found A Iamh: joey 
+isword 12740 6370 0 Not found B Iamh: deliquesce 
+isword 12740 9555 6371 Not found B Iamh: Gambia 
+isword 12740 11148 9556 Not found B Iamh: Holloway 
+isword 12740 11944 11149 Not found A Iamh: Indiana 
+isword 11943 11546 11149 Not found A Iamh: Ibn 
+isword 11545 11347 11149 Not found B Iamh: Howell 
+isword 11545 11446 11348 Not found B Iamh: hut 
+isword 11545 11496 11447 Not found B Iamh: hygroscopic 
+isword 11545 11521 11497 Not found B Iamh: hypophyseal 
+isword 11545 11533 11522 Not found B Iamh: hysteresis 
+isword 11545 11539 11534 Not found B Iamh: iambic 
+isword 11545 11542 11540 Not found A Iamh: ibex 
+isword 11541 11540 11540 Not found A Iamh: Ian 
+substring 0 5 Iamhe
+isword 25482 12741 0 Not found A Iamhe: joey 
+isword 12740 6370 0 Not found B Iamhe: deliquesce 
+isword 12740 9555 6371 Not found B Iamhe: Gambia 
+isword 12740 11148 9556 Not found B Iamhe: Holloway 
+isword 12740 11944 11149 Not found A Iamhe: Indiana 
+isword 11943 11546 11149 Not found A Iamhe: Ibn 
+isword 11545 11347 11149 Not found B Iamhe: Howell 
+isword 11545 11446 11348 Not found B Iamhe: hut 
+isword 11545 11496 11447 Not found B Iamhe: hygroscopic 
+isword 11545 11521 11497 Not found B Iamhe: hypophyseal 
+isword 11545 11533 11522 Not found B Iamhe: hysteresis 
+isword 11545 11539 11534 Not found B Iamhe: iambic 
+isword 11545 11542 11540 Not found A Iamhe: ibex 
+isword 11541 11540 11540 Not found A Iamhe: Ian 
+substring 0 6 Iamher
+isword 25482 12741 0 Not found A Iamher: joey 
+isword 12740 6370 0 Not found B Iamher: deliquesce 
+isword 12740 9555 6371 Not found B Iamher: Gambia 
+isword 12740 11148 9556 Not found B Iamher: Holloway 
+isword 12740 11944 11149 Not found A Iamher: Indiana 
+isword 11943 11546 11149 Not found A Iamher: Ibn 
+isword 11545 11347 11149 Not found B Iamher: Howell 
+isword 11545 11446 11348 Not found B Iamher: hut 
+isword 11545 11496 11447 Not found B Iamher: hygroscopic 
+isword 11545 11521 11497 Not found B Iamher: hypophyseal 
+isword 11545 11533 11522 Not found B Iamher: hysteresis 
+isword 11545 11539 11534 Not found B Iamher: iambic 
+isword 11545 11542 11540 Not found A Iamher: ibex 
+isword 11541 11540 11540 Not found A Iamher: Ian 
+substring 0 7 Iamhere
+isword 25482 12741 0 Not found A Iamhere: joey 
+isword 12740 6370 0 Not found B Iamhere: deliquesce 
+isword 12740 9555 6371 Not found B Iamhere: Gambia 
+isword 12740 11148 9556 Not found B Iamhere: Holloway 
+isword 12740 11944 11149 Not found A Iamhere: Indiana 
+isword 11943 11546 11149 Not found A Iamhere: Ibn 
+isword 11545 11347 11149 Not found B Iamhere: Howell 
+isword 11545 11446 11348 Not found B Iamhere: hut 
+isword 11545 11496 11447 Not found B Iamhere: hygroscopic 
+isword 11545 11521 11497 Not found B Iamhere: hypophyseal 
+isword 11545 11533 11522 Not found B Iamhere: hysteresis 
+isword 11545 11539 11534 Not found B Iamhere: iambic 
+isword 11545 11542 11540 Not found A Iamhere: ibex 
+isword 11541 11540 11540 Not found A Iamhere: Ian 
+substring 0 8 Iamhere.
+isword 25482 12741 0 Not found A Iamhere.: joey 
+isword 12740 6370 0 Not found B Iamhere.: deliquesce 
+isword 12740 9555 6371 Not found B Iamhere.: Gambia 
+isword 12740 11148 9556 Not found B Iamhere.: Holloway 
+isword 12740 11944 11149 Not found A Iamhere.: Indiana 
+isword 11943 11546 11149 Not found A Iamhere.: Ibn 
+isword 11545 11347 11149 Not found B Iamhere.: Howell 
+isword 11545 11446 11348 Not found B Iamhere.: hut 
+isword 11545 11496 11447 Not found B Iamhere.: hygroscopic 
+isword 11545 11521 11497 Not found B Iamhere.: hypophyseal 
+isword 11545 11533 11522 Not found B Iamhere.: hysteresis 
+isword 11545 11539 11534 Not found B Iamhere.: iambic 
+isword 11545 11542 11540 Not found A Iamhere.: ibex 
+isword 11541 11540 11540 Not found A Iamhere.: Ian 
+substring 0 9 Iamhere.
+
+isword 25482 12741 0 Not found A Iamhere.
+: joey 
+isword 12740 6370 0 Not found B Iamhere.
+: deliquesce 
+isword 12740 9555 6371 Not found B Iamhere.
+: Gambia 
+isword 12740 11148 9556 Not found B Iamhere.
+: Holloway 
+isword 12740 11944 11149 Not found A Iamhere.
+: Indiana 
+isword 11943 11546 11149 Not found A Iamhere.
+: Ibn 
+isword 11545 11347 11149 Not found B Iamhere.
+: Howell 
+isword 11545 11446 11348 Not found B Iamhere.
+: hut 
+isword 11545 11496 11447 Not found B Iamhere.
+: hygroscopic 
+isword 11545 11521 11497 Not found B Iamhere.
+: hypophyseal 
+isword 11545 11533 11522 Not found B Iamhere.
+: hysteresis 
+isword 11545 11539 11534 Not found B Iamhere.
+: iambic 
+isword 11545 11542 11540 Not found A Iamhere.
+: ibex 
+isword 11541 11540 11540 Not found A Iamhere.
+: Ian 
+substring 1 0 
+substring 1 1 a
+isword 25482 12741 0 Not found A a: joey 
+isword 12740 6370 0 Not found A a: deliquesce 
+isword 6369 3184 0 Not found A a: brookside 
+isword 3183 1591 0 Not found A a: attest 
+isword 1590 795 0 Not found A a: Amelia 
+isword 794 397 0 Not found A a: afar 
+isword 396 198 0 Not found A a: Ackley 
+isword 197 98 0 Not found A a: absorb 
+isword 97 48 0 Not found A a: ablate 
+isword 47 23 0 Not found A a: abdomen 
+isword 22 11 0 Not found A a: abandon 
+isword 10 5 0 Not found A a: Aaron 
+isword 4 2 0 Not found A a: AAAS 
+isword 1 0 0 Found a: a
+substring 1 2 am
+isword 25482 12741 0 Not found A am: joey 
+isword 12740 6370 0 Not found A am: deliquesce 
+isword 6369 3184 0 Not found A am: brookside 
+isword 3183 1591 0 Not found A am: attest 
+isword 1590 795 0 Not found A am: Amelia 
+isword 794 397 0 Not found B am: afar 
+isword 794 596 398 Not found B am: Aleck 
+isword 794 695 597 Not found B am: alluvium 
+isword 794 745 696 Not found B am: alum 
+isword 794 770 746 Not found A am: Amarillo 
+isword 769 757 746 Not found B am: alveolus 
+isword 769 763 758 Not found A am: AMA 
+isword 762 760 758 Not found B am: alyssum 
+isword 762 761 761 Not found B am: A&M 
+isword 762 762 762 Found am: am
+substring 1 3 amh
+isword 25482 12741 0 Not found A amh: joey 
+isword 12740 6370 0 Not found A amh: deliquesce 
+isword 6369 3184 0 Not found A amh: brookside 
+isword 3183 1591 0 Not found A amh: attest 
+isword 1590 795 0 Not found B amh: Amelia 
+isword 1590 1193 796 Not found A amh: appraise 
+isword 1192 994 796 Not found A amh: anneal 
+isword 993 894 796 Not found A amh: anarch 
+isword 893 844 796 Not found A amh: amount 
+isword 843 819 796 Not found A amh: Amman 
+isword 818 807 796 Not found A amh: Amharic 
+isword 806 801 796 Not found B amh: America 
+isword 806 804 802 Not found B amh: Ames 
+isword 806 805 805 Not found B amh: amethyst 
+isword 806 806 806 Not found B amh: amethystine 
+substring 1 4 amhe
+isword 25482 12741 0 Not found A amhe: joey 
+isword 12740 6370 0 Not found A amhe: deliquesce 
+isword 6369 3184 0 Not found A amhe: brookside 
+isword 3183 1591 0 Not found A amhe: attest 
+isword 1590 795 0 Not found B amhe: Amelia 
+isword 1590 1193 796 Not found A amhe: appraise 
+isword 1192 994 796 Not found A amhe: anneal 
+isword 993 894 796 Not found A amhe: anarch 
+isword 893 844 796 Not found A amhe: amount 
+isword 843 819 796 Not found A amhe: Amman 
+isword 818 807 796 Not found B amhe: Amharic 
+isword 818 813 808 Not found A amhe: amidst 
+isword 812 810 808 Not found A amhe: amicable 
+isword 809 808 808 Not found A amhe: Amherst 
+substring 1 5 amher
+isword 25482 12741 0 Not found A amher: joey 
+isword 12740 6370 0 Not found A amher: deliquesce 
+isword 6369 3184 0 Not found A amher: brookside 
+isword 3183 1591 0 Not found A amher: attest 
+isword 1590 795 0 Not found B amher: Amelia 
+isword 1590 1193 796 Not found A amher: appraise 
+isword 1192 994 796 Not found A amher: anneal 
+isword 993 894 796 Not found A amher: anarch 
+isword 893 844 796 Not found A amher: amount 
+isword 843 819 796 Not found A amher: Amman 
+isword 818 807 796 Not found B amher: Amharic 
+isword 818 813 808 Not found A amher: amidst 
+isword 812 810 808 Not found A amher: amicable 
+isword 809 808 808 Not found A amher: Amherst 
+substring 1 6 amhere
+isword 25482 12741 0 Not found A amhere: joey 
+isword 12740 6370 0 Not found A amhere: deliquesce 
+isword 6369 3184 0 Not found A amhere: brookside 
+isword 3183 1591 0 Not found A amhere: attest 
+isword 1590 795 0 Not found B amhere: Amelia 
+isword 1590 1193 796 Not found A amhere: appraise 
+isword 1192 994 796 Not found A amhere: anneal 
+isword 993 894 796 Not found A amhere: anarch 
+isword 893 844 796 Not found A amhere: amount 
+isword 843 819 796 Not found A amhere: Amman 
+isword 818 807 796 Not found B amhere: Amharic 
+isword 818 813 808 Not found A amhere: amidst 
+isword 812 810 808 Not found A amhere: amicable 
+isword 809 808 808 Not found A amhere: Amherst 
+substring 1 7 amhere.
+isword 25482 12741 0 Not found A amhere.: joey 
+isword 12740 6370 0 Not found A amhere.: deliquesce 
+isword 6369 3184 0 Not found A amhere.: brookside 
+isword 3183 1591 0 Not found A amhere.: attest 
+isword 1590 795 0 Not found B amhere.: Amelia 
+isword 1590 1193 796 Not found A amhere.: appraise 
+isword 1192 994 796 Not found A amhere.: anneal 
+isword 993 894 796 Not found A amhere.: anarch 
+isword 893 844 796 Not found A amhere.: amount 
+isword 843 819 796 Not found A amhere.: Amman 
+isword 818 807 796 Not found B amhere.: Amharic 
+isword 818 813 808 Not found A amhere.: amidst 
+isword 812 810 808 Not found A amhere.: amicable 
+isword 809 808 808 Not found A amhere.: Amherst 
+substring 1 8 amhere.
+
+isword 25482 12741 0 Not found A amhere.
+: joey 
+isword 12740 6370 0 Not found A amhere.
+: deliquesce 
+isword 6369 3184 0 Not found A amhere.
+: brookside 
+isword 3183 1591 0 Not found A amhere.
+: attest 
+isword 1590 795 0 Not found B amhere.
+: Amelia 
+isword 1590 1193 796 Not found A amhere.
+: appraise 
+isword 1192 994 796 Not found A amhere.
+: anneal 
+isword 993 894 796 Not found A amhere.
+: anarch 
+isword 893 844 796 Not found A amhere.
+: amount 
+isword 843 819 796 Not found A amhere.
+: Amman 
+isword 818 807 796 Not found B amhere.
+: Amharic 
+isword 818 813 808 Not found A amhere.
+: amidst 
+isword 812 810 808 Not found A amhere.
+: amicable 
+isword 809 808 808 Not found A amhere.
+: Amherst 
+substring 1 9 amhere.
+
+isword 25482 12741 0 Not found A amhere.
+: joey 
+isword 12740 6370 0 Not found A amhere.
+: deliquesce 
+isword 6369 3184 0 Not found A amhere.
+: brookside 
+isword 3183 1591 0 Not found A amhere.
+: attest 
+isword 1590 795 0 Not found B amhere.
+: Amelia 
+isword 1590 1193 796 Not found A amhere.
+: appraise 
+isword 1192 994 796 Not found A amhere.
+: anneal 
+isword 993 894 796 Not found A amhere.
+: anarch 
+isword 893 844 796 Not found A amhere.
+: amount 
+isword 843 819 796 Not found A amhere.
+: Amman 
+isword 818 807 796 Not found B amhere.
+: Amharic 
+isword 818 813 808 Not found A amhere.
+: amidst 
+isword 812 810 808 Not found A amhere.
+: amicable 
+isword 809 808 808 Not found A amhere.
+: Amherst 
+substring 2 0 
+substring 2 1 m
+substring 2 2 mh
+isword 25482 12741 0 Not found B mh: joey 
+isword 25482 19112 12742 Not found A mh: regent 
+isword 19111 15926 12742 Not found A mh: nine 
+isword 15925 14333 12742 Not found B mh: manganese 
+isword 15925 15129 14334 Not found A mh: misnomer 
+isword 15128 14731 14334 Not found B mh: megabit 
+isword 15128 14930 14732 Not found B mh: Mexico 
+isword 15128 15029 14931 Not found A mh: mill 
+isword 15028 14979 14931 Not found A mh: midscale 
+isword 14978 14954 14931 Not found A mh: microbial 
+isword 14953 14942 14931 Not found A mh: Michaelangelo 
+isword 14941 14936 14931 Not found A mh: miaow 
+isword 14935 14933 14931 Not found B mh: mezzo 
+isword 14935 14934 14934 Not found A mh: mi 
+substring 2 3 mhe
+isword 25482 12741 0 Not found B mhe: joey 
+isword 25482 19112 12742 Not found A mhe: regent 
+isword 19111 15926 12742 Not found A mhe: nine 
+isword 15925 14333 12742 Not found B mhe: manganese 
+isword 15925 15129 14334 Not found A mhe: misnomer 
+isword 15128 14731 14334 Not found B mhe: megabit 
+isword 15128 14930 14732 Not found B mhe: Mexico 
+isword 15128 15029 14931 Not found A mhe: mill 
+isword 15028 14979 14931 Not found A mhe: midscale 
+isword 14978 14954 14931 Not found A mhe: microbial 
+isword 14953 14942 14931 Not found A mhe: Michaelangelo 
+isword 14941 14936 14931 Not found A mhe: miaow 
+isword 14935 14933 14931 Not found B mhe: mezzo 
+isword 14935 14934 14934 Not found A mhe: mi 
+substring 2 4 mher
+isword 25482 12741 0 Not found B mher: joey 
+isword 25482 19112 12742 Not found A mher: regent 
+isword 19111 15926 12742 Not found A mher: nine 
+isword 15925 14333 12742 Not found B mher: manganese 
+isword 15925 15129 14334 Not found A mher: misnomer 
+isword 15128 14731 14334 Not found B mher: megabit 
+isword 15128 14930 14732 Not found B mher: Mexico 
+isword 15128 15029 14931 Not found A mher: mill 
+isword 15028 14979 14931 Not found A mher: midscale 
+isword 14978 14954 14931 Not found A mher: microbial 
+isword 14953 14942 14931 Not found A mher: Michaelangelo 
+isword 14941 14936 14931 Not found A mher: miaow 
+isword 14935 14933 14931 Not found B mher: mezzo 
+isword 14935 14934 14934 Not found A mher: mi 
+substring 2 5 mhere
+isword 25482 12741 0 Not found B mhere: joey 
+isword 25482 19112 12742 Not found A mhere: regent 
+isword 19111 15926 12742 Not found A mhere: nine 
+isword 15925 14333 12742 Not found B mhere: manganese 
+isword 15925 15129 14334 Not found A mhere: misnomer 
+isword 15128 14731 14334 Not found B mhere: megabit 
+isword 15128 14930 14732 Not found B mhere: Mexico 
+isword 15128 15029 14931 Not found A mhere: mill 
+isword 15028 14979 14931 Not found A mhere: midscale 
+isword 14978 14954 14931 Not found A mhere: microbial 
+isword 14953 14942 14931 Not found A mhere: Michaelangelo 
+isword 14941 14936 14931 Not found A mhere: miaow 
+isword 14935 14933 14931 Not found B mhere: mezzo 
+isword 14935 14934 14934 Not found A mhere: mi 
+substring 2 6 mhere.
+isword 25482 12741 0 Not found B mhere.: joey 
+isword 25482 19112 12742 Not found A mhere.: regent 
+isword 19111 15926 12742 Not found A mhere.: nine 
+isword 15925 14333 12742 Not found B mhere.: manganese 
+isword 15925 15129 14334 Not found A mhere.: misnomer 
+isword 15128 14731 14334 Not found B mhere.: megabit 
+isword 15128 14930 14732 Not found B mhere.: Mexico 
+isword 15128 15029 14931 Not found A mhere.: mill 
+isword 15028 14979 14931 Not found A mhere.: midscale 
+isword 14978 14954 14931 Not found A mhere.: microbial 
+isword 14953 14942 14931 Not found A mhere.: Michaelangelo 
+isword 14941 14936 14931 Not found A mhere.: miaow 
+isword 14935 14933 14931 Not found B mhere.: mezzo 
+isword 14935 14934 14934 Not found A mhere.: mi 
+substring 2 7 mhere.
+
+isword 25482 12741 0 Not found B mhere.
+: joey 
+isword 25482 19112 12742 Not found A mhere.
+: regent 
+isword 19111 15926 12742 Not found A mhere.
+: nine 
+isword 15925 14333 12742 Not found B mhere.
+: manganese 
+isword 15925 15129 14334 Not found A mhere.
+: misnomer 
+isword 15128 14731 14334 Not found B mhere.
+: megabit 
+isword 15128 14930 14732 Not found B mhere.
+: Mexico 
+isword 15128 15029 14931 Not found A mhere.
+: mill 
+isword 15028 14979 14931 Not found A mhere.
+: midscale 
+isword 14978 14954 14931 Not found A mhere.
+: microbial 
+isword 14953 14942 14931 Not found A mhere.
+: Michaelangelo 
+isword 14941 14936 14931 Not found A mhere.
+: miaow 
+isword 14935 14933 14931 Not found B mhere.
+: mezzo 
+isword 14935 14934 14934 Not found A mhere.
+: mi 
+substring 2 8 mhere.
+
+isword 25482 12741 0 Not found B mhere.
+: joey 
+isword 25482 19112 12742 Not found A mhere.
+: regent 
+isword 19111 15926 12742 Not found A mhere.
+: nine 
+isword 15925 14333 12742 Not found B mhere.
+: manganese 
+isword 15925 15129 14334 Not found A mhere.
+: misnomer 
+isword 15128 14731 14334 Not found B mhere.
+: megabit 
+isword 15128 14930 14732 Not found B mhere.
+: Mexico 
+isword 15128 15029 14931 Not found A mhere.
+: mill 
+isword 15028 14979 14931 Not found A mhere.
+: midscale 
+isword 14978 14954 14931 Not found A mhere.
+: microbial 
+isword 14953 14942 14931 Not found A mhere.
+: Michaelangelo 
+isword 14941 14936 14931 Not found A mhere.
+: miaow 
+isword 14935 14933 14931 Not found B mhere.
+: mezzo 
+isword 14935 14934 14934 Not found A mhere.
+: mi 
+substring 2 9 mhere.
+
+isword 25482 12741 0 Not found B mhere.
+: joey 
+isword 25482 19112 12742 Not found A mhere.
+: regent 
+isword 19111 15926 12742 Not found A mhere.
+: nine 
+isword 15925 14333 12742 Not found B mhere.
+: manganese 
+isword 15925 15129 14334 Not found A mhere.
+: misnomer 
+isword 15128 14731 14334 Not found B mhere.
+: megabit 
+isword 15128 14930 14732 Not found B mhere.
+: Mexico 
+isword 15128 15029 14931 Not found A mhere.
+: mill 
+isword 15028 14979 14931 Not found A mhere.
+: midscale 
+isword 14978 14954 14931 Not found A mhere.
+: microbial 
+isword 14953 14942 14931 Not found A mhere.
+: Michaelangelo 
+isword 14941 14936 14931 Not found A mhere.
+: miaow 
+isword 14935 14933 14931 Not found B mhere.
+: mezzo 
+isword 14935 14934 14934 Not found A mhere.
+: mi 
+substring 3 0 
+substring 3 1 h
+substring 3 2 he
+substring 3 3 her
+isword 25482 12741 0 Not found A her: joey 
+isword 12740 6370 0 Not found B her: deliquesce 
+isword 12740 9555 6371 Not found B her: Gambia 
+isword 12740 11148 9556 Not found A her: Holloway 
+isword 11147 10351 9556 Not found B her: gullible 
+isword 11147 10749 10352 Not found B her: heal 
+isword 11147 10948 10750 Not found A her: hesitant 
+isword 10947 10848 10750 Not found B her: helpful 
+isword 10947 10898 10849 Not found A her: hereditary 
+isword 10897 10873 10849 Not found B her: Henrietta 
+isword 10897 10885 10874 Not found A her: Herbert 
+isword 10884 10879 10874 Found her: her
+substring 3 4 here
+isword 25482 12741 0 Not found A here: joey 
+isword 12740 6370 0 Not found B here: deliquesce 
+isword 12740 9555 6371 Not found B here: Gambia 
+isword 12740 11148 9556 Not found A here: Holloway 
+isword 11147 10351 9556 Not found B here: gullible 
+isword 11147 10749 10352 Not found B here: heal 
+isword 11147 10948 10750 Not found A here: hesitant 
+isword 10947 10848 10750 Not found B here: helpful 
+isword 10947 10898 10849 Not found A here: hereditary 
+isword 10897 10873 10849 Not found B here: Henrietta 
+isword 10897 10885 10874 Not found B here: Herbert 
+isword 10897 10891 10886 Not found B here: herd 
+isword 10897 10894 10892 Found here: here
+substring 3 5 here.
+isword 25482 12741 0 Not found A here.: joey 
+isword 12740 6370 0 Not found B here.: deliquesce 
+isword 12740 9555 6371 Not found B here.: Gambia 
+isword 12740 11148 9556 Not found A here.: Holloway 
+isword 11147 10351 9556 Not found B here.: gullible 
+isword 11147 10749 10352 Not found B here.: heal 
+isword 11147 10948 10750 Not found A here.: hesitant 
+isword 10947 10848 10750 Not found B here.: helpful 
+isword 10947 10898 10849 Not found A here.: hereditary 
+isword 10897 10873 10849 Not found B here.: Henrietta 
+isword 10897 10885 10874 Not found B here.: Herbert 
+isword 10897 10891 10886 Not found B here.: herd 
+isword 10897 10894 10892 Not found B here.: here 
+isword 10897 10896 10895 Not found A here.: hereafter 
+isword 10895 10895 10895 Not found A here.: hereabout 
+substring 3 6 here.
+
+isword 25482 12741 0 Not found A here.
+: joey 
+isword 12740 6370 0 Not found B here.
+: deliquesce 
+isword 12740 9555 6371 Not found B here.
+: Gambia 
+isword 12740 11148 9556 Not found A here.
+: Holloway 
+isword 11147 10351 9556 Not found B here.
+: gullible 
+isword 11147 10749 10352 Not found B here.
+: heal 
+isword 11147 10948 10750 Not found A here.
+: hesitant 
+isword 10947 10848 10750 Not found B here.
+: helpful 
+isword 10947 10898 10849 Not found A here.
+: hereditary 
+isword 10897 10873 10849 Not found B here.
+: Henrietta 
+isword 10897 10885 10874 Not found B here.
+: Herbert 
+isword 10897 10891 10886 Not found B here.
+: herd 
+isword 10897 10894 10892 Not found B here.
+: here 
+isword 10897 10896 10895 Not found A here.
+: hereafter 
+isword 10895 10895 10895 Not found A here.
+: hereabout 
+substring 3 7 here.
+
+isword 25482 12741 0 Not found A here.
+: joey 
+isword 12740 6370 0 Not found B here.
+: deliquesce 
+isword 12740 9555 6371 Not found B here.
+: Gambia 
+isword 12740 11148 9556 Not found A here.
+: Holloway 
+isword 11147 10351 9556 Not found B here.
+: gullible 
+isword 11147 10749 10352 Not found B here.
+: heal 
+isword 11147 10948 10750 Not found A here.
+: hesitant 
+isword 10947 10848 10750 Not found B here.
+: helpful 
+isword 10947 10898 10849 Not found A here.
+: hereditary 
+isword 10897 10873 10849 Not found B here.
+: Henrietta 
+isword 10897 10885 10874 Not found B here.
+: Herbert 
+isword 10897 10891 10886 Not found B here.
+: herd 
+isword 10897 10894 10892 Not found B here.
+: here 
+isword 10897 10896 10895 Not found A here.
+: hereafter 
+isword 10895 10895 10895 Not found A here.
+: hereabout 
+substring 3 8 here.
+
+isword 25482 12741 0 Not found A here.
+: joey 
+isword 12740 6370 0 Not found B here.
+: deliquesce 
+isword 12740 9555 6371 Not found B here.
+: Gambia 
+isword 12740 11148 9556 Not found A here.
+: Holloway 
+isword 11147 10351 9556 Not found B here.
+: gullible 
+isword 11147 10749 10352 Not found B here.
+: heal 
+isword 11147 10948 10750 Not found A here.
+: hesitant 
+isword 10947 10848 10750 Not found B here.
+: helpful 
+isword 10947 10898 10849 Not found A here.
+: hereditary 
+isword 10897 10873 10849 Not found B here.
+: Henrietta 
+isword 10897 10885 10874 Not found B here.
+: Herbert 
+isword 10897 10891 10886 Not found B here.
+: herd 
+isword 10897 10894 10892 Not found B here.
+: here 
+isword 10897 10896 10895 Not found A here.
+: hereafter 
+isword 10895 10895 10895 Not found A here.
+: hereabout 
+substring 3 9 here.
+
+isword 25482 12741 0 Not found A here.
+: joey 
+isword 12740 6370 0 Not found B here.
+: deliquesce 
+isword 12740 9555 6371 Not found B here.
+: Gambia 
+isword 12740 11148 9556 Not found A here.
+: Holloway 
+isword 11147 10351 9556 Not found B here.
+: gullible 
+isword 11147 10749 10352 Not found B here.
+: heal 
+isword 11147 10948 10750 Not found A here.
+: hesitant 
+isword 10947 10848 10750 Not found B here.
+: helpful 
+isword 10947 10898 10849 Not found A here.
+: hereditary 
+isword 10897 10873 10849 Not found B here.
+: Henrietta 
+isword 10897 10885 10874 Not found B here.
+: Herbert 
+isword 10897 10891 10886 Not found B here.
+: herd 
+isword 10897 10894 10892 Not found B here.
+: here 
+isword 10897 10896 10895 Not found A here.
+: hereafter 
+isword 10895 10895 10895 Not found A here.
+: hereabout 
+substring 4 0 
+substring 4 1 e
+substring 4 2 er
+substring 4 3 ere
+substring 4 4 ere.
+isword 25482 12741 0 Not found A ere.: joey 
+isword 12740 6370 0 Not found B ere.: deliquesce 
+isword 12740 9555 6371 Not found A ere.: Gambia 
+isword 9554 7962 6371 Not found B ere.: equivalent 
+isword 9554 8758 7963 Not found A ere.: Fiji 
+isword 8757 8360 7963 Not found A ere.: expressible 
+isword 8359 8161 7963 Not found A ere.: Everett 
+isword 8160 8061 7963 Not found A ere.: Estonia 
+isword 8060 8011 7963 Not found A ere.: error 
+isword 8010 7986 7963 Not found A ere.: Erie 
+isword 7985 7974 7963 Not found B ere.: Eratosthenes 
+isword 7985 7980 7975 Not found A ere.: ergative 
+isword 7979 7977 7975 Not found B ere.: ere 
+isword 7979 7978 7978 Not found A ere.: erect 
+substring 4 5 ere.
+
+isword 25482 12741 0 Not found A ere.
+: joey 
+isword 12740 6370 0 Not found B ere.
+: deliquesce 
+isword 12740 9555 6371 Not found A ere.
+: Gambia 
+isword 9554 7962 6371 Not found B ere.
+: equivalent 
+isword 9554 8758 7963 Not found A ere.
+: Fiji 
+isword 8757 8360 7963 Not found A ere.
+: expressible 
+isword 8359 8161 7963 Not found A ere.
+: Everett 
+isword 8160 8061 7963 Not found A ere.
+: Estonia 
+isword 8060 8011 7963 Not found A ere.
+: error 
+isword 8010 7986 7963 Not found A ere.
+: Erie 
+isword 7985 7974 7963 Not found B ere.
+: Eratosthenes 
+isword 7985 7980 7975 Not found A ere.
+: ergative 
+isword 7979 7977 7975 Not found B ere.
+: ere 
+isword 7979 7978 7978 Not found A ere.
+: erect 
+substring 4 6 ere.
+
+isword 25482 12741 0 Not found A ere.
+: joey 
+isword 12740 6370 0 Not found B ere.
+: deliquesce 
+isword 12740 9555 6371 Not found A ere.
+: Gambia 
+isword 9554 7962 6371 Not found B ere.
+: equivalent 
+isword 9554 8758 7963 Not found A ere.
+: Fiji 
+isword 8757 8360 7963 Not found A ere.
+: expressible 
+isword 8359 8161 7963 Not found A ere.
+: Everett 
+isword 8160 8061 7963 Not found A ere.
+: Estonia 
+isword 8060 8011 7963 Not found A ere.
+: error 
+isword 8010 7986 7963 Not found A ere.
+: Erie 
+isword 7985 7974 7963 Not found B ere.
+: Eratosthenes 
+isword 7985 7980 7975 Not found A ere.
+: ergative 
+isword 7979 7977 7975 Not found B ere.
+: ere 
+isword 7979 7978 7978 Not found A ere.
+: erect 
+substring 4 7 ere.
+
+isword 25482 12741 0 Not found A ere.
+: joey 
+isword 12740 6370 0 Not found B ere.
+: deliquesce 
+isword 12740 9555 6371 Not found A ere.
+: Gambia 
+isword 9554 7962 6371 Not found B ere.
+: equivalent 
+isword 9554 8758 7963 Not found A ere.
+: Fiji 
+isword 8757 8360 7963 Not found A ere.
+: expressible 
+isword 8359 8161 7963 Not found A ere.
+: Everett 
+isword 8160 8061 7963 Not found A ere.
+: Estonia 
+isword 8060 8011 7963 Not found A ere.
+: error 
+isword 8010 7986 7963 Not found A ere.
+: Erie 
+isword 7985 7974 7963 Not found B ere.
+: Eratosthenes 
+isword 7985 7980 7975 Not found A ere.
+: ergative 
+isword 7979 7977 7975 Not found B ere.
+: ere 
+isword 7979 7978 7978 Not found A ere.
+: erect 
+substring 4 8 ere.
+
+isword 25482 12741 0 Not found A ere.
+: joey 
+isword 12740 6370 0 Not found B ere.
+: deliquesce 
+isword 12740 9555 6371 Not found A ere.
+: Gambia 
+isword 9554 7962 6371 Not found B ere.
+: equivalent 
+isword 9554 8758 7963 Not found A ere.
+: Fiji 
+isword 8757 8360 7963 Not found A ere.
+: expressible 
+isword 8359 8161 7963 Not found A ere.
+: Everett 
+isword 8160 8061 7963 Not found A ere.
+: Estonia 
+isword 8060 8011 7963 Not found A ere.
+: error 
+isword 8010 7986 7963 Not found A ere.
+: Erie 
+isword 7985 7974 7963 Not found B ere.
+: Eratosthenes 
+isword 7985 7980 7975 Not found A ere.
+: ergative 
+isword 7979 7977 7975 Not found B ere.
+: ere 
+isword 7979 7978 7978 Not found A ere.
+: erect 
+substring 4 9 ere.
+
+isword 25482 12741 0 Not found A ere.
+: joey 
+isword 12740 6370 0 Not found B ere.
+: deliquesce 
+isword 12740 9555 6371 Not found A ere.
+: Gambia 
+isword 9554 7962 6371 Not found B ere.
+: equivalent 
+isword 9554 8758 7963 Not found A ere.
+: Fiji 
+isword 8757 8360 7963 Not found A ere.
+: expressible 
+isword 8359 8161 7963 Not found A ere.
+: Everett 
+isword 8160 8061 7963 Not found A ere.
+: Estonia 
+isword 8060 8011 7963 Not found A ere.
+: error 
+isword 8010 7986 7963 Not found A ere.
+: Erie 
+isword 7985 7974 7963 Not found B ere.
+: Eratosthenes 
+isword 7985 7980 7975 Not found A ere.
+: ergative 
+isword 7979 7977 7975 Not found B ere.
+: ere 
+isword 7979 7978 7978 Not found A ere.
+: erect 
+substring 5 0 
+substring 5 1 r
+substring 5 2 re
+substring 5 3 re.
+substring 5 4 re.
+
+substring 5 5 re.
+
+isword 25482 12741 0 Not found B re.
+: joey 
+isword 25482 19112 12742 Not found A re.
+: regent 
+isword 19111 15926 12742 Not found B re.
+: nine 
+isword 19111 17519 15927 Not found B re.
+: pigeonfoot 
+isword 19111 18315 17520 Not found B re.
+: promiscuous 
+isword 19111 18713 18316 Not found B re.
+: quarto 
+isword 19111 18912 18714 Not found B re.
+: Ranier 
+isword 19111 19012 18913 Not found A re.
+: recess 
+isword 19011 18962 18913 Not found B re.
+: ravel 
+isword 19011 18987 18963 Not found A re.
+: ready 
+isword 18986 18974 18963 Not found B re.
+: Raytheon 
+isword 18986 18980 18975 Not found B re.
+: Rd 
+isword 18986 18983 18981 Not found A re.
+: reactant 
+isword 18982 18981 18981 Not found B re.
+: re 
+isword 18982 18982 18982 Not found A re.
+: reach 
+substring 5 6 re.
+
+isword 25482 12741 0 Not found B re.
+: joey 
+isword 25482 19112 12742 Not found A re.
+: regent 
+isword 19111 15926 12742 Not found B re.
+: nine 
+isword 19111 17519 15927 Not found B re.
+: pigeonfoot 
+isword 19111 18315 17520 Not found B re.
+: promiscuous 
+isword 19111 18713 18316 Not found B re.
+: quarto 
+isword 19111 18912 18714 Not found B re.
+: Ranier 
+isword 19111 19012 18913 Not found A re.
+: recess 
+isword 19011 18962 18913 Not found B re.
+: ravel 
+isword 19011 18987 18963 Not found A re.
+: ready 
+isword 18986 18974 18963 Not found B re.
+: Raytheon 
+isword 18986 18980 18975 Not found B re.
+: Rd 
+isword 18986 18983 18981 Not found A re.
+: reactant 
+isword 18982 18981 18981 Not found B re.
+: re 
+isword 18982 18982 18982 Not found A re.
+: reach 
+substring 5 7 re.
+
+isword 25482 12741 0 Not found B re.
+: joey 
+isword 25482 19112 12742 Not found A re.
+: regent 
+isword 19111 15926 12742 Not found B re.
+: nine 
+isword 19111 17519 15927 Not found B re.
+: pigeonfoot 
+isword 19111 18315 17520 Not found B re.
+: promiscuous 
+isword 19111 18713 18316 Not found B re.
+: quarto 
+isword 19111 18912 18714 Not found B re.
+: Ranier 
+isword 19111 19012 18913 Not found A re.
+: recess 
+isword 19011 18962 18913 Not found B re.
+: ravel 
+isword 19011 18987 18963 Not found A re.
+: ready 
+isword 18986 18974 18963 Not found B re.
+: Raytheon 
+isword 18986 18980 18975 Not found B re.
+: Rd 
+isword 18986 18983 18981 Not found A re.
+: reactant 
+isword 18982 18981 18981 Not found B re.
+: re 
+isword 18982 18982 18982 Not found A re.
+: reach 
+substring 5 8 re.
+
+isword 25482 12741 0 Not found B re.
+: joey 
+isword 25482 19112 12742 Not found A re.
+: regent 
+isword 19111 15926 12742 Not found B re.
+: nine 
+isword 19111 17519 15927 Not found B re.
+: pigeonfoot 
+isword 19111 18315 17520 Not found B re.
+: promiscuous 
+isword 19111 18713 18316 Not found B re.
+: quarto 
+isword 19111 18912 18714 Not found B re.
+: Ranier 
+isword 19111 19012 18913 Not found A re.
+: recess 
+isword 19011 18962 18913 Not found B re.
+: ravel 
+isword 19011 18987 18963 Not found A re.
+: ready 
+isword 18986 18974 18963 Not found B re.
+: Raytheon 
+isword 18986 18980 18975 Not found B re.
+: Rd 
+isword 18986 18983 18981 Not found A re.
+: reactant 
+isword 18982 18981 18981 Not found B re.
+: re 
+isword 18982 18982 18982 Not found A re.
+: reach 
+substring 5 9 re.
+
+isword 25482 12741 0 Not found B re.
+: joey 
+isword 25482 19112 12742 Not found A re.
+: regent 
+isword 19111 15926 12742 Not found B re.
+: nine 
+isword 19111 17519 15927 Not found B re.
+: pigeonfoot 
+isword 19111 18315 17520 Not found B re.
+: promiscuous 
+isword 19111 18713 18316 Not found B re.
+: quarto 
+isword 19111 18912 18714 Not found B re.
+: Ranier 
+isword 19111 19012 18913 Not found A re.
+: recess 
+isword 19011 18962 18913 Not found B re.
+: ravel 
+isword 19011 18987 18963 Not found A re.
+: ready 
+isword 18986 18974 18963 Not found B re.
+: Raytheon 
+isword 18986 18980 18975 Not found B re.
+: Rd 
+isword 18986 18983 18981 Not found A re.
+: reactant 
+isword 18982 18981 18981 Not found B re.
+: re 
+isword 18982 18982 18982 Not found A re.
+: reach 
+substring 6 0 
+substring 6 1 e
+substring 6 2 e.
+substring 6 3 e.
+
+substring 6 4 e.
+
+substring 6 5 e.
+
+substring 6 6 e.
+
+isword 25482 12741 0 Not found A e.
+: joey 
+isword 12740 6370 0 Not found B e.
+: deliquesce 
+isword 12740 9555 6371 Not found A e.
+: Gambia 
+isword 9554 7962 6371 Not found A e.
+: equivalent 
+isword 7961 7166 6371 Not found B e.
+: dragoon 
+isword 7961 7564 7167 Not found A e.
+: ejaculate 
+isword 7563 7365 7167 Not found B e.
+: dyeing 
+isword 7563 7464 7366 Not found A e.
+: edematous 
+isword 7463 7414 7366 Not found A e.
+: easternmost 
+isword 7413 7389 7366 Not found A e.
+: eardrum 
+isword 7388 7377 7366 Not found B e.
+: dyne 
+isword 7388 7383 7378 Not found B e.
+: e 
+isword 7388 7386 7384 Not found A e.
+: eager 
+isword 7385 7384 7384 Not found A e.
+: each 
+substring 6 7 e.
+
+isword 25482 12741 0 Not found A e.
+: joey 
+isword 12740 6370 0 Not found B e.
+: deliquesce 
+isword 12740 9555 6371 Not found A e.
+: Gambia 
+isword 9554 7962 6371 Not found A e.
+: equivalent 
+isword 7961 7166 6371 Not found B e.
+: dragoon 
+isword 7961 7564 7167 Not found A e.
+: ejaculate 
+isword 7563 7365 7167 Not found B e.
+: dyeing 
+isword 7563 7464 7366 Not found A e.
+: edematous 
+isword 7463 7414 7366 Not found A e.
+: easternmost 
+isword 7413 7389 7366 Not found A e.
+: eardrum 
+isword 7388 7377 7366 Not found B e.
+: dyne 
+isword 7388 7383 7378 Not found B e.
+: e 
+isword 7388 7386 7384 Not found A e.
+: eager 
+isword 7385 7384 7384 Not found A e.
+: each 
+substring 6 8 e.
+
+isword 25482 12741 0 Not found A e.
+: joey 
+isword 12740 6370 0 Not found B e.
+: deliquesce 
+isword 12740 9555 6371 Not found A e.
+: Gambia 
+isword 9554 7962 6371 Not found A e.
+: equivalent 
+isword 7961 7166 6371 Not found B e.
+: dragoon 
+isword 7961 7564 7167 Not found A e.
+: ejaculate 
+isword 7563 7365 7167 Not found B e.
+: dyeing 
+isword 7563 7464 7366 Not found A e.
+: edematous 
+isword 7463 7414 7366 Not found A e.
+: easternmost 
+isword 7413 7389 7366 Not found A e.
+: eardrum 
+isword 7388 7377 7366 Not found B e.
+: dyne 
+isword 7388 7383 7378 Not found B e.
+: e 
+isword 7388 7386 7384 Not found A e.
+: eager 
+isword 7385 7384 7384 Not found A e.
+: each 
+substring 6 9 e.
+
+isword 25482 12741 0 Not found A e.
+: joey 
+isword 12740 6370 0 Not found B e.
+: deliquesce 
+isword 12740 9555 6371 Not found A e.
+: Gambia 
+isword 9554 7962 6371 Not found A e.
+: equivalent 
+isword 7961 7166 6371 Not found B e.
+: dragoon 
+isword 7961 7564 7167 Not found A e.
+: ejaculate 
+isword 7563 7365 7167 Not found B e.
+: dyeing 
+isword 7563 7464 7366 Not found A e.
+: edematous 
+isword 7463 7414 7366 Not found A e.
+: easternmost 
+isword 7413 7389 7366 Not found A e.
+: eardrum 
+isword 7388 7377 7366 Not found B e.
+: dyne 
+isword 7388 7383 7378 Not found B e.
+: e 
+isword 7388 7386 7384 Not found A e.
+: eager 
+isword 7385 7384 7384 Not found A e.
+: each 
+substring 7 0 
+substring 7 1 .
+substring 7 2 .
+
+substring 7 3 .
+
+substring 7 4 .
+
+substring 7 5 .
+
+substring 7 6 .
+
+substring 7 7 .
+
+isword 25482 12741 0 Not found A .
+: joey 
+isword 12740 6370 0 Not found A .
+: deliquesce 
+isword 6369 3184 0 Not found A .
+: brookside 
+isword 3183 1591 0 Not found A .
+: attest 
+isword 1590 795 0 Not found A .
+: Amelia 
+isword 794 397 0 Not found A .
+: afar 
+isword 396 198 0 Not found A .
+: Ackley 
+isword 197 98 0 Not found A .
+: absorb 
+isword 97 48 0 Not found A .
+: ablate 
+isword 47 23 0 Not found A .
+: abdomen 
+isword 22 11 0 Not found A .
+: abandon 
+isword 10 5 0 Not found A .
+: Aaron 
+isword 4 2 0 Not found A .
+: AAAS 
+isword 1 0 0 Not found A .
+: a 
+substring 7 8 .
+
+isword 25482 12741 0 Not found A .
+: joey 
+isword 12740 6370 0 Not found A .
+: deliquesce 
+isword 6369 3184 0 Not found A .
+: brookside 
+isword 3183 1591 0 Not found A .
+: attest 
+isword 1590 795 0 Not found A .
+: Amelia 
+isword 794 397 0 Not found A .
+: afar 
+isword 396 198 0 Not found A .
+: Ackley 
+isword 197 98 0 Not found A .
+: absorb 
+isword 97 48 0 Not found A .
+: ablate 
+isword 47 23 0 Not found A .
+: abdomen 
+isword 22 11 0 Not found A .
+: abandon 
+isword 10 5 0 Not found A .
+: Aaron 
+isword 4 2 0 Not found A .
+: AAAS 
+isword 1 0 0 Not found A .
+: a 
+substring 7 9 .
+
+isword 25482 12741 0 Not found A .
+: joey 
+isword 12740 6370 0 Not found A .
+: deliquesce 
+isword 6369 3184 0 Not found A .
+: brookside 
+isword 3183 1591 0 Not found A .
+: attest 
+isword 1590 795 0 Not found A .
+: Amelia 
+isword 794 397 0 Not found A .
+: afar 
+isword 396 198 0 Not found A .
+: Ackley 
+isword 197 98 0 Not found A .
+: absorb 
+isword 97 48 0 Not found A .
+: ablate 
+isword 47 23 0 Not found A .
+: abdomen 
+isword 22 11 0 Not found A .
+: abandon 
+isword 10 5 0 Not found A .
+: Aaron 
+isword 4 2 0 Not found A .
+: AAAS 
+isword 1 0 0 Not found A .
+: a 
+substring 8 0 
+substring 8 1 
+
+substring 8 2 
+
+substring 8 3 
+
+substring 8 4 
+
+substring 8 5 
+
+substring 8 6 
+
+substring 8 7 
+
+substring 8 8 
+
+isword 25482 12741 0 Not found A 
+: joey 
+isword 12740 6370 0 Not found A 
+: deliquesce 
+isword 6369 3184 0 Not found A 
+: brookside 
+isword 3183 1591 0 Not found A 
+: attest 
+isword 1590 795 0 Not found A 
+: Amelia 
+isword 794 397 0 Not found A 
+: afar 
+isword 396 198 0 Not found A 
+: Ackley 
+isword 197 98 0 Not found A 
+: absorb 
+isword 97 48 0 Not found A 
+: ablate 
+isword 47 23 0 Not found A 
+: abdomen 
+isword 22 11 0 Not found A 
+: abandon 
+isword 10 5 0 Not found A 
+: Aaron 
+isword 4 2 0 Not found A 
+: AAAS 
+isword 1 0 0 Not found A 
+: a 
+substring 8 9 
+
+isword 25482 12741 0 Not found A 
+: joey 
+isword 12740 6370 0 Not found A 
+: deliquesce 
+isword 6369 3184 0 Not found A 
+: brookside 
+isword 3183 1591 0 Not found A 
+: attest 
+isword 1590 795 0 Not found A 
+: Amelia 
+isword 794 397 0 Not found A 
+: afar 
+isword 396 198 0 Not found A 
+: Ackley 
+isword 197 98 0 Not found A 
+: absorb 
+isword 97 48 0 Not found A 
+: ablate 
+isword 47 23 0 Not found A 
+: abdomen 
+isword 22 11 0 Not found A 
+: abandon 
+isword 10 5 0 Not found A 
+: Aaron 
+isword 4 2 0 Not found A 
+: AAAS 
+isword 1 0 0 Not found A 
+: a 
+substring 9 0 
+substring 9 1 
+substring 9 2 
+substring 9 3 
+substring 9 4 
+substring 9 5 
+substring 9 6 
+substring 9 7 
+substring 9 8 
+substring 9 9 
