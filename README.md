@@ -17,18 +17,28 @@ To build the c++ engine under Linux.
 
 # Usage
 
-This a simplified usage from the program  
+This a simplified usage from the respace program  
 
-> % testscanner_stl  
-> Respace Decoder version .450b  
-> Command Path: testscanner_stl  
+> % respace_stl   
+> Respace Decoder version .450b
+> Command Path: ./respace_stl
 
-> USAGE [-option] [INPUT FILE]  
-> USAGE [-option]  
-> testscanner_stl --file [file]     -  Despace a command line string.  
-> testscanner_stl --int             -  Execute the interpreter.  
-> testscanner_stl --hex             -  Execute and despace the hex code argument.  
-> testscanner_stl spacelessstring   -  Despace a argument string.  
+> USAGE [-option] [INPUT FILE]
+> USAGE [-option]
+
+> respace_stl --file [file]     -  Respace a command line string.
+> respace_stl --int             -  Execute the interpreter.
+> respace_stl --hex             -  Execute and despace the hex code argument.
+> respace_stl --stk             -  Respace a argument string and display the matchstack.
+> respace_stl spacelessstring   -  Respace a argument string.
+
+
+USAGE Examples:
+   cmdline: respace Iamhereinavalleyoffame
+   I am here in a valley of fame
+   cmdline: respace --file test
+   This is a test!!
+
 
 # File Respace Execution
 
@@ -36,14 +46,14 @@ In the following a file is respaced.
 
 [respace_cpp]$ cat noon.txt  
 Thisisanexample!2222,getmetheball!  
-[respace_cpp]$ testscanner_stl --file noon.txt  
+[respace_cpp]$ respace_stl --file noon.txt  
 This is an example! 2222, get me the ball!  
 
 # Command line Respace Execution
 
 This is the spaceless text conversion with a command line listing of the coordinate match stack.
 
-* ./testscanner_stl aman
+* ./respace_stl --stk aman
 * (0:0) 3 a
 * (0:1) 0 am
 * (0:2) 0 ama
@@ -55,7 +65,7 @@ This is the spaceless text conversion with a command line listing of the coordin
 * (2:3) 0 an
 * (3:3) 3 n
 * a man
-* ./testscanner_stl amanandahorse
+* ./respace_stl --stk amanandahorse
 * (0:0) 3 a
 * (0:1) 0 am
 * (0:2) 0 ama
@@ -88,6 +98,9 @@ This is the spaceless text conversion with a command line listing of the coordin
 * (11:12) 0 se
 * (12:12) 3 e
 * a man and a horse
+* 
+* ./respace_stl amanandahorse
+* a man and a horse
 
 # Spaceless interpreter
 
@@ -95,7 +108,7 @@ This is an example of a spaceless interpreter. It doesn't currently have a large
 I also had a time crunch so this is just a fraction of it's potential.
 
 
-[respace_cpp]$ testscanner_stl --int
+[respace_cpp]$ respace_stl --int
 
 Interpreter 1.0
 
