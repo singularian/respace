@@ -12,6 +12,13 @@ function makeSpaceless() {
 document.form1.textarea.value = removeSpaces(document.form1.textarea.value);
 }
 
+function removePunctuation() {
+var iTxt = document.form1.textarea.value;
+document.form1.textarea.value = iTxt.replace(/[^a-zA-Z0-9 ]+/g, '');
+}
+
+
+
 function removeSpaces(string) {
 	var tstring = "";
 	string = '' + string;
@@ -31,7 +38,7 @@ function removeSpaces(string) {
     <input type="button" name="text1" value="lowercase" size="30" onClick="makeLowercase();"><br>
     <input type="button" name="text2" value="UPPERCASE" size="20" onClick="makeUppercase();"><br>
     <input type="button" name="text3" value="Removespace" size="20" onClick="makeSpaceless();"><br>
-    <input type="button" name="text4" value="Remove punctuation" size="20" onClick="makeSpaceless();"><br>
+    <input type="button" name="text4" value="Remove punctuation" size="20" onClick="removePunctuation();"><br>
     </center>
 </FORM>
 </HTML>
