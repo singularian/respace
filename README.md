@@ -101,6 +101,13 @@ This is the spaceless text conversion with a command line listing of the coordin
 * 
 * ./respace_stl amanandahorse
 * a man and a horse
+* ./respace_stl Kendrasucks
+* Kendra suck s
+* respace_stl ReneeisStrange.
+* Renee is Strange.
+* respace_stl Kendraisstrange
+* Kendra is strange
+
 
 # Spaceless interpreter
 
